@@ -2,3 +2,6 @@ This is my file2 for git course.
 adding new content
 
 skngknskgksfvk
+
+
+added footer note.
